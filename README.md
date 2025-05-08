@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on<br>Mon portfolio en React avec Vite, TypeScript et Tailwind • Une API REST autour du rhum et du café • Un réseau social en Node.js avec JWT auth<br><br> I’m looking to collaborate on<br>Des projets pédagogiques ou créatifs pour progresser ensemble (frontend, backend ou fullstack)<br><br> I’m looking for help with<br>Optimisation JavaScript, sécurité des APIs (authentification JWT, middleware), bonnes pratiques de projet<br><br> I’m currently learning<br>React, Redux Toolkit, Zustand, SCSS architecture 7-1, accessibilité et éco-conception web<br><br> Ask me about<br>Mon parcours atypique en reconversion, l’apprentissage en autodidacte, mes projets backend Node.js<br><br> Fun fact<br>J’ai commencé le code sans rien y connaître... aujourd’hui, je construis des APIs et des interfaces en React avec le sourire 
+ I’m currently working on<br> <br><br> I’m looking to collaborate on<br> <br><br> I’m looking for help with<br> <br><br> I’m currently learning<br> <br><br> Ask me about<br> <br><br> Fun fact<br>  
 
 
 ## 🌐 Socials:
