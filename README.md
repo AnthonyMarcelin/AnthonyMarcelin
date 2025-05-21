@@ -9,7 +9,7 @@ Une API REST dédiée à la gestion de favoris de spiritueux (whiskys, rhums, et
 <br>
 🤝 I’m looking to collaborate on
 <br>
-Des projets d’application web ou d’API, avec une stack JavaScript (Node.js, Express, React) ou Python. Je suis ouvert à participer à des projets open source ou à contribuer à des outils pour développeurs.
+Des projets d’application web ou d’API, avec une stack JavaScript (Node.js, Express, React). Je suis ouvert à participer à des projets open source ou à contribuer à des outils pour développeurs.
 <br>
 <br>
 🆘 I’m looking for help with
