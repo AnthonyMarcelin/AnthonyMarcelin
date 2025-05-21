@@ -1,5 +1,33 @@
 # 💫 About Me:
- I’m currently working on<br> <br><br> I’m looking to collaborate on<br> <br><br> I’m looking for help with<br> <br><br> I’m currently learning<br> <br><br> Ask me about<br> <br><br> Fun fact<br>  
+Développeur full stack junior en fin de formation Concepteur Développeur d’Applications. J’ai un goût prononcé pour les architectures propres, les API bien pensées et les interfaces simples et efficaces. Je suis motivé à rejoindre une équipe où je pourrai continuer à apprendre et monter en compétence.
+I’m currently working on
+<br>
+Une API REST dédiée à la gestion de favoris de spiritueux (whiskys, rhums, etc.), avec un système d’authentification, une base de données relationnelle et des tests automatisés.
+<br>
+<br>
+I’m looking to collaborate on
+<br>
+Des projets d’application web ou d’API, avec une stack JavaScript (Node.js, Express, React) ou Python. Je suis ouvert à participer à des projets open source ou à contribuer à des outils pour développeurs.
+<br>
+<br>
+I’m looking for help with
+<br>
+Améliorer la structure et la qualité de mon code, mettre en place des tests plus poussés, et adopter les bonnes pratiques de documentation sur GitHub et dans mes projets.
+<br>
+<br>
+I’m currently learning
+<br>
+L’approfondissement des bases solides du développement back-end (modélisation de données, sécurisation d’API, bonnes pratiques), ainsi que l’amélioration de mes compétences en front-end avec React.
+<br>
+<br>
+Ask me about
+<br>
+La structuration d’un projet back-end, la conception d’une API REST, les outils de tests basiques (Jest, Postman) et les bonnes pratiques de développement acquises pendant ma formation.
+<br>
+<br>
+Fun fact
+<br>
+Je tiens une base de données personnelle des spiritueux que je découvre, que je suis en train de transformer en véritable application web. C’est mon laboratoire pour expérimenter et progresser en développement.
 
 
 ## 🌐 Socials:
