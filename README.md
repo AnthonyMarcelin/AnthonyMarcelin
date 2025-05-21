@@ -1,5 +1,7 @@
 # 💫 About Me:
 Développeur full stack junior en fin de formation Concepteur Développeur d’Applications. J’ai un goût prononcé pour les architectures propres, les API bien pensées et les interfaces simples et efficaces. Je suis motivé à rejoindre une équipe où je pourrai continuer à apprendre et monter en compétence.
+<br>
+<br>
 💻 I’m currently working on
 <br>
 Une API REST dédiée à la gestion de favoris de spiritueux (whiskys, rhums, etc.), avec un système d’authentification, une base de données relationnelle et des tests automatisés.
