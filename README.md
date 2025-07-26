@@ -19,7 +19,7 @@ Améliorer la structure et la qualité de mon code, mettre en place des tests pl
 <br>
 🧠 I’m currently learning
 <br>
-L’approfondissement des bases solides du développement back-end (modélisation de données, sécurisation d’API, bonnes pratiques), ainsi que l’amélioration de mes compétences en front-end avec React.
+L’approfondissement des bases solides du développement back-end (modélisation de données, sécurisation d’API, bonnes pratiques), ainsi que l’amélioration de mes compétences en front-end avec Angular.
 <br>
 <br>
 ❓ Ask me about
